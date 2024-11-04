@@ -1,2 +1,2 @@
 # Demo
-This is a gith &amp; github
+This is a gith &amp; github class
